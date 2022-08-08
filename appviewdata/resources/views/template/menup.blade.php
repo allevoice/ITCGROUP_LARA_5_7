@@ -57,17 +57,17 @@
 
 
 
-                                        <li>
-                                            <div class="select-style">
-                                                <form action="{{route('langchange')}}" method="POST">
-                                                    @csrf
-                                                    <select name="selectlang"  onchange="this.form.submit()">
-                                                        <option value="fr">fr</option>
-                                                        <option value="en">en</option>
-                                                    </select>
-                                                </form>
-                                            </div>
-                                        </li>
+                                        {{--<li>--}}
+                                            {{--<div class="select-style">--}}
+                                                {{--<form action="{{route('langchange')}}" method="POST">--}}
+                                                    {{--@csrf--}}
+                                                    {{--<select name="selectlang"  onchange="this.form.submit()">--}}
+                                                        {{--<option value="fr">fr</option>--}}
+                                                        {{--<option value="en">en</option>--}}
+                                                    {{--</select>--}}
+                                                {{--</form>--}}
+                                            {{--</div>--}}
+                                        {{--</li>--}}
                                         <li>
                                             @if(Session::has('paneladmin') != NULL)
                                                 <a href="{{route('adminpage')}}" class="btn btn-sm btn-danger square-btn-adjust"><span class="fa fa-eye"></span></a>

@@ -15,14 +15,15 @@ class HomesliderController extends Controller
 
         //Les messages
         $message_fr = [
-            'blueicone.required'=> 'Vous devez mettre une image pour le background',
-            'blueicone.max'    => 'The :attribute ne doit pas depasser cette valeur  :max Bite. ',
-            'blueicone.mimes' => 'Le type format de l\'image n\'est pas prise en charge',
+            //Pour tous les autres images pour les galleries
+            'backimgview.required'=> 'Vous devez mettre une image pour le background',
+            'backimgview.max'    => 'L\'image d\'arriere plan ne doit pas depasser cette valeur  :max Bite. ',
+            'backimgview.mimes' => 'Le type format de l\'image n\'est pas prise en charge',
 
-            //POur tous les autres images pour la galleries
-            'img1.required'=> 'Vous devez mettre une image pour le background',
-            'img1.max'    => 'The :attribute ne doit pas depasser cette valeur  :max Bite. ',
-            'img1.mimes' => 'Le type format de l\'image n\'est pas prise en charge',
+            //POur tous les logos images pour la galleries
+            'logoview.required'=> 'Vous devez mettre une image pour le Logo',
+            'logoview.max'    => 'Le Logo ne doit pas depasser cette valeur  :max Bite. ',
+            'logoview.mimes' => 'Le type format de l\'image n\'est pas prise en charge',
 
 
             'title.required'=> 'Le champ titre ne doit pas etre vide',

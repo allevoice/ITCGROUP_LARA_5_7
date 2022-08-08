@@ -19,6 +19,7 @@ class Loginperso
 
         //return $next($request);
 
+
         $val = Session::get('paneladmin');
         if($val == NULL){
             return redirect()->route('logpersoform');
@@ -26,6 +27,7 @@ class Loginperso
             //return redirect()->route('adminpage');
              return $next($request);
         }
+
     }
 
 

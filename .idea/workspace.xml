@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4102cf58-8727-4890-afad-048bd8022080" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/appviewdata/app/Http/Controllers/DashpageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/appviewdata/app/Http/Controllers/DashpageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appviewdata/app/Http/Controllers/HomesliderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/appviewdata/app/Http/Controllers/HomesliderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appviewdata/app/Http/Middleware/Loginperso.php" beforeDir="false" afterPath="$PROJECT_DIR$/appviewdata/app/Http/Middleware/Loginperso.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appviewdata/database/migrations/2022_05_07_131837_create_partners_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/appviewdata/database/migrations/2022_05_07_131837_create_partners_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appviewdata/resources/views/admin/adminp.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/appviewdata/resources/views/admin/adminp.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appviewdata/resources/views/home/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/appviewdata/resources/views/home/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appviewdata/resources/views/template/menup.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/appviewdata/resources/views/template/menup.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/appviewdata/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/appviewdata/resources/views/template/menuadm.blade.php" />
+        <option value="$PROJECT_DIR$/appviewdata/app/Http/Middleware/Loginperso.php" />
+        <option value="$PROJECT_DIR$/appviewdata/app/Http/Controllers/HomesliderController.php" />
+        <option value="$PROJECT_DIR$/appviewdata/resources/views/home/home.blade.php" />
+        <option value="$PROJECT_DIR$/appviewdata/database/migrations/2022_05_07_131837_create_partners_table.php" />
+        <option value="$PROJECT_DIR$/appviewdata/resources/views/template/menup.blade.php" />
+        <option value="$PROJECT_DIR$/appviewdata/resources/views/admin/adminp.blade.php" />
+        <option value="$PROJECT_DIR$/appviewdata/app/Http/Controllers/DashpageController.php" />
+        <option value="&lt;fcda548e-d445-4c97-93bf-f3567ec79b75&gt;/appviewdata/config/app.php" />
+        <option value="&lt;fcda548e-d445-4c97-93bf-f3567ec79b75&gt;/appviewdata/.env" />
+        <option value="$PROJECT_DIR$/appviewdata/bootstrap/cache/packages.php" />
+        <option value="&lt;fcda548e-d445-4c97-93bf-f3567ec79b75&gt;/appviewdata/bootstrap/cache/services.php" />
+        <option value="&lt;fcda548e-d445-4c97-93bf-f3567ec79b75&gt;/appviewdata/vendor/composer/platform_check.php" />
+        <option value="&lt;fcda548e-d445-4c97-93bf-f3567ec79b75&gt;/appviewdata/app/helpers.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/appviewdata/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/nexmo/client-core" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/composer" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/appviewdata/vendor/barryvdh/laravel-debugbar" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="107" />
+    <option name="y" value="16" />
+    <option name="width" value="1146" />
+    <option name="height" value="343" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ITCGROUP_LARA_5_7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ITCGROUP_LARA_5_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ITCGROUP_LARA_5_7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ITCGROUP_LARA_5_7" type="462c0819:PsiDirectoryNode" />
+              <item name="Online" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4102cf58-8727-4890-afad-048bd8022080" name="Default Changelist" comment="" />
+      <created>1659977789456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659977789456</updated>
+      <workItem from="1659977791321" duration="7708000" />
+      <workItem from="1659990020270" duration="2805000" />
+      <workItem from="1659992934674" duration="1510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12023000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21190476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.32936507" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32936507" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/appviewdata/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/app/Http/Middleware/Loginperso.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/app/Http/Controllers/HomesliderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/database/migrations/2022_05_07_131837_create_partners_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/app/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="267" column="13" selection-start-line="267" selection-start-column="13" selection-end-line="267" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/resources/views/home/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="255" column="18" selection-start-line="255" selection-start-column="18" selection-end-line="255" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/resources/views/template/tmpitcg.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="284" column="45" selection-start-line="284" selection-start-column="34" selection-end-line="284" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/resources/views/template/menuadm.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="143" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/resources/views/template/menup.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="69" column="49" selection-start-line="59" selection-start-column="39" selection-end-line="69" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/app/Http/Controllers/MessagingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="83" column="29" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/app/Http/Controllers/DashpageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/resources/views/admin/adminp.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="32" column="102" selection-start-line="32" selection-start-column="102" selection-end-line="32" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/storage/logs/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/bootstrap/cache/pacD904.tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/bootstrap/cache/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/bootstrap/cache/packages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-607">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Online/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Online/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appviewdata/.env.example">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

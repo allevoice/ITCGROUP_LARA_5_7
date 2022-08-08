@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fcda548e-d445-4c97-93bf-f3567ec79b75" name="ITCGROUP" url="http://localhost">
+        <fileTransfer host="ftp.ntpsams.com" port="21">
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

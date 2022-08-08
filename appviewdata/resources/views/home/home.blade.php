@@ -243,7 +243,7 @@
 
                                 <div class="col-lg-4 col-md-12 col-sm-12 stat-count text-left bold-font" style="margin-left: -10%">{{$skilllist->numberskill}}</div>
                                 <div class="col-lg-4 col-md-12 col-sm-12 text-right" style="margin-left: 10%">
-                                    <h4 class="black-color"><span >{{$skilllist->title}} Years of Experiences</span></h4>
+                                    <h4 class="black-color"><span >{{$skilllist->title}}</span></h4>
                                 </div>
                                 <!--skill-level-->
                             </aside>
